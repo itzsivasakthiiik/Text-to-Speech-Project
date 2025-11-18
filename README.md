@@ -16,7 +16,15 @@ This project is aimed at creating a simple text-to-speech (TTS) application usin
 
 2. Install dependencies:
 
+📌 Technologies Used
 
+Python
+
+pyttsx3 or gTTS (Text-to-Speech engine)
+
+playsound (to play audio)
+
+Optionally: Tkinter/Streamlit for GUI
 ## Usage
 
 1. Run the application:
